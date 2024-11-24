@@ -1,47 +1,47 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 #EXTINF:-1 group-title="МАТЧ! ПРЕМЬЕР" tvg-id="2250" tvg-name="МАТЧ! ПРЕМЬЕР",1. МАТЧ! ПРЕМЬЕР HD
-https://mhd116.iptv2022.com/p/JFn6WTNnwMTLsPgfEqz83A,1732395609/streaming/nashfootbalhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Ah5qfUCVUp0dln9RHD3iOQ,1732482015/streaming/nashfootbalhd/324/1/index.m3u8
 #EXTINF:-1 group-title="МАТЧ! ПРЕМЬЕР" tvg-id="2250" tvg-name="МАТЧ! ПРЕМЬЕР",2. МАТЧ! ПРЕМЬЕР HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNCA2OjU3OjQyIEFNJmhhc2hfdmFsdWU9K05nTnh2ZWpMMUhnTk51SG83WlNUZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCA5OjA4OjAyIEFNJmhhc2hfdmFsdWU9TmpoNHkyWlcvM0Y0VmtvSk1CZTJxQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="МАТЧ! ПРЕМЬЕР" tvg-id="2250" tvg-name="МАТЧ! ПРЕМЬЕР",3. МАТЧ! ПРЕМЬЕР HD
-https://tv.movielab.pro/250/video.m3u8?token=3f51e998e69c43df34a1e275a138a36daf146857-21fbda48f2d3a6058e549ab4390881dd-1732431163-1732344763
+https://tv.movielab.pro/250/video.m3u8?token=53e815b79f212aa313db6d1a37cd9ae0f48b01a8-8ad67ea4920337c616cbd83db77ddaaa-1732525382-1732438982
 #EXTINF:-1 group-title="МАТЧ! ПРЕМЬЕР" tvg-id="2250" tvg-name="МАТЧ! ПРЕМЬЕР",4. МАТЧ! ПРЕМЬЕР
-http://77.235.1.17/match_premier/index.m3u8
+https://mhd116.iptv2022.com/p/cxft8ixKQ-Je_RoqPfuGBg,1732482015/streaming/nashfootbal/324/1/index.m3u8
 #EXTINF:-1 group-title="МАТЧ! ПРЕМЬЕР" tvg-id="2250" tvg-name="МАТЧ! ПРЕМЬЕР",5. МАТЧ! ПРЕМЬЕР
-https://mhd116.iptv2022.com/p/hmvDO70W5MGX970AshQhaQ,1732395609/streaming/nashfootbal/324/1/index.m3u8
-#EXTINF:-1 group-title="МАТЧ! ПРЕМЬЕР" tvg-id="2250" tvg-name="МАТЧ! ПРЕМЬЕР",6. МАТЧ! ПРЕМЬЕР
 http://s5.merlive.am:80/matchpremier/index.m3u8
+#EXTINF:-1 group-title="МАТЧ! ПРЕМЬЕР" tvg-id="2250" tvg-name="МАТЧ! ПРЕМЬЕР",6. МАТЧ! ПРЕМЬЕР
+http://77.235.1.17/match_premier/index.m3u8
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 1" tvg-id="2044" tvg-name="МАТЧ! ФУТБОЛ 1",1. МАТЧ! ФУТБОЛ 1 HD
-rtmp://92.119.88.58//2407
-#EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 1" tvg-id="2044" tvg-name="МАТЧ! ФУТБОЛ 1",2. МАТЧ! ФУТБОЛ 1 HD
 http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 1" tvg-id="2044" tvg-name="МАТЧ! ФУТБОЛ 1",2. МАТЧ! ФУТБОЛ 1 HD
+https://mhd116.iptv2022.com/p/V9na8oCu0-4OBMGkMJ4nmg,1732482015/streaming/footbal1hd/324/1/index.m3u8
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 1" tvg-id="2044" tvg-name="МАТЧ! ФУТБОЛ 1",3. МАТЧ! ФУТБОЛ 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNCA2OjU3OjQyIEFNJmhhc2hfdmFsdWU9K05nTnh2ZWpMMUhnTk51SG83WlNUZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCA5OjA4OjAyIEFNJmhhc2hfdmFsdWU9TmpoNHkyWlcvM0Y0VmtvSk1CZTJxQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 1" tvg-id="2044" tvg-name="МАТЧ! ФУТБОЛ 1",4. МАТЧ! ФУТБОЛ 1 HD
-https://mhd116.iptv2022.com/p/ljIY8HrJ9GzYNU42h2Pj_Q,1732395609/streaming/footbal1hd/324/1/index.m3u8
+rtmp://92.119.88.58//2407
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 1" tvg-id="2044" tvg-name="МАТЧ! ФУТБОЛ 1",5. МАТЧ! ФУТБОЛ 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=27fd2c711adfeb7c377ab474ba8c7ced6398a4a8-2e041a891d6e1716dd2fd96fd9bf9dc4-1732431163-1732344763
+https://tv.movielab.pro/260/video.m3u8?token=6e83d67b9ce91219bb61f41215da486ef627d6bc-f94f3af78d420169813c75ba7ddad438-1732525382-1732438982
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 1" tvg-id="2044" tvg-name="МАТЧ! ФУТБОЛ 1",6. МАТЧ! ФУТБОЛ 1
 http://tv.ttk.mx:9108
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 1" tvg-id="2044" tvg-name="МАТЧ! ФУТБОЛ 1",7. МАТЧ! ФУТБОЛ 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 2" tvg-id="1042" tvg-name="МАТЧ! ФУТБОЛ 2",1. МАТЧ! ФУТБОЛ 2 HD
-https://mhd116.iptv2022.com/p/bu_Tygf-iql-nGE_tLrYDg,1732395609/streaming/footbal2hd/324/1/index.m3u8
-#EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 2" tvg-id="1042" tvg-name="МАТЧ! ФУТБОЛ 2",2. МАТЧ! ФУТБОЛ 2 HD
 http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 2" tvg-id="1042" tvg-name="МАТЧ! ФУТБОЛ 2",2. МАТЧ! ФУТБОЛ 2 HD
+https://mhd116.iptv2022.com/p/tDbLtZDJGC7BOTyrrI7ccA,1732482015/streaming/footbal2hd/324/1/index.m3u8
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 2" tvg-id="1042" tvg-name="МАТЧ! ФУТБОЛ 2",3. МАТЧ! ФУТБОЛ 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNCA2OjU3OjQyIEFNJmhhc2hfdmFsdWU9K05nTnh2ZWpMMUhnTk51SG83WlNUZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCA5OjA4OjAyIEFNJmhhc2hfdmFsdWU9TmpoNHkyWlcvM0Y0VmtvSk1CZTJxQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 2" tvg-id="1042" tvg-name="МАТЧ! ФУТБОЛ 2",4. МАТЧ! ФУТБОЛ 2 HD
-https://tv.movielab.pro/271/video.m3u8?token=9c0031103a43815370a38a66620c5a29d839209a-92432b3e7204bbd0f8d43e0d6e87d5be-1732431163-1732344763
+https://tv.movielab.pro/271/video.m3u8?token=44842dff58ebb2ac98ad8579c8318ea6b829c1ac-5d45e8854cf8be276f01152fc1ce1537-1732525382-1732438982
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 2" tvg-id="1042" tvg-name="МАТЧ! ФУТБОЛ 2",5. МАТЧ! ФУТБОЛ 2
 http://ott.server-iptv.live/203/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 3" tvg-id="2005" tvg-name="МАТЧ! ФУТБОЛ 3",1. МАТЧ! ФУТБОЛ 3 HD
-https://mhd116.iptv2022.com/p/7jLnzcLx_Bf-qcis53Im0A,1732395609/streaming/footbal3hd/324/1/index.m3u8
+http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCA5OjA4OjAyIEFNJmhhc2hfdmFsdWU9TmpoNHkyWlcvM0Y0VmtvSk1CZTJxQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 3" tvg-id="2005" tvg-name="МАТЧ! ФУТБОЛ 3",2. МАТЧ! ФУТБОЛ 3 HD
-http://tv.ttk.mx:9116
+https://mhd116.iptv2022.com/p/tftSwIjIZ-W8BomeOhsQVA,1732482015/streaming/footbal3hd/324/1/index.m3u8
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 3" tvg-id="2005" tvg-name="МАТЧ! ФУТБОЛ 3",3. МАТЧ! ФУТБОЛ 3 HD
-http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNCA2OjU3OjQyIEFNJmhhc2hfdmFsdWU9K05nTnh2ZWpMMUhnTk51SG83WlNUZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://tv.ttk.mx:9116
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 3" tvg-id="2005" tvg-name="МАТЧ! ФУТБОЛ 3",4. МАТЧ! ФУТБОЛ 3 HD
-https://tv.movielab.pro/329/video.m3u8?token=6043bec77ec744f6de434b626f22c6e8d9fd6698-ef2e392e3883f014f0522339d3288a61-1732431163-1732344763
+https://tv.movielab.pro/329/video.m3u8?token=9b07bef2ebe01e6cf4a0289833cc6ecb10c136a9-8fa9adf3bc344fb38773d0edf9442bdb-1732525382-1732438982
 #EXTINF:-1 group-title="МАТЧ! ФУТБОЛ 3" tvg-id="2005" tvg-name="МАТЧ! ФУТБОЛ 3",5. МАТЧ! ФУТБОЛ 3
 http://tv.ttk.mx:9112
