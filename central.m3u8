@@ -6,17 +6,17 @@ http://93.189.224.246:52900/play/a011/index.m3u8
 #EXTINF:-1 group-title="ПЕРВЫЙ КАНАЛ" tvg-id="146" tvg-name="ПЕРВЫЙ КАНАЛ",ПЕРВЫЙ КАНАЛ
 http://77.106.252.178:4022/udp/233.33.210.86:5050
 #EXTINF:-1 group-title="ПЕРВЫЙ КАНАЛ" tvg-id="146" tvg-name="ПЕРВЫЙ КАНАЛ",ПЕРВЫЙ КАНАЛ
+http://195.26.83.96:7013/play/12/index.m3u8
+#EXTINF:-1 group-title="ПЕРВЫЙ КАНАЛ" tvg-id="146" tvg-name="ПЕРВЫЙ КАНАЛ",ПЕРВЫЙ КАНАЛ
 http://213.226.137.140:81/tl/l46/mpegts
 #EXTINF:-1 group-title="ПЕРВЫЙ КАНАЛ" tvg-id="146" tvg-name="ПЕРВЫЙ КАНАЛ",ПЕРВЫЙ КАНАЛ
 http://130.193.73.10:8937/play/a00f
-#EXTINF:-1 group-title="ПЕРВЫЙ КАНАЛ" tvg-id="146" tvg-name="ПЕРВЫЙ КАНАЛ",ПЕРВЫЙ КАНАЛ
-http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 group-title="ПЕРВЫЙ КАНАЛ" tvg-id="146" tvg-name="ПЕРВЫЙ КАНАЛ",ПЕРВЫЙ КАНАЛ
 http://193.242.190.6:8099/1/index.m3u8
 #EXTINF:-1 group-title="ПЕРВЫЙ КАНАЛ" tvg-id="146" tvg-name="ПЕРВЫЙ КАНАЛ",ПЕРВЫЙ КАНАЛ
 http://91.192.168.251:8001
 #EXTINF:-1 group-title="ПЕРВЫЙ КАНАЛ" tvg-id="146" tvg-name="ПЕРВЫЙ КАНАЛ",ПЕРВЫЙ КАНАЛ
-http://95.83.111.209:4022/udp/239.255.40.37:5500
+http://s7.merlive.am/pervyj/index.m3u8
 #EXTINF:-1 group-title="ПЕРВЫЙ КАНАЛ" tvg-id="146" tvg-name="ПЕРВЫЙ КАНАЛ",ПЕРВЫЙ КАНАЛ
 http://s5.merlive.am/pervyj/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
@@ -24,21 +24,21 @@ http://213.226.137.140:81/tl/l42/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
 http://93.189.224.246:52900/play/a00w/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
-https://stream2.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
 https://stream1.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
 https://flussonic.salomtv.uz/Rossiya1/video.m3u8
 #EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
 http://213.226.137.140:81/tl/l42/mpegts
 #EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
-http://130.193.73.10:8937/play/a00j
+http://31.148.48.15/Rossiya_1/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
 http://178.163.16.7:4022/udp/234.0.0.201:2000
 #EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
-http://31.148.48.15/Rossiya_1/index.m3u8
+http://130.193.73.10:8937/play/a00j
 #EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
 http://s1.merlive.am/Rossia1/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ 1" tvg-id="711" tvg-name="РОССИЯ 1",РОССИЯ 1
+http://s5.merlive.am/Rossia1/index.m3u8
 #EXTINF:-1 group-title="МАТЧ!" tvg-id="2051" tvg-name="МАТЧ!",МАТЧ!
 http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
 #EXTINF:-1 group-title="МАТЧ!" tvg-id="2051" tvg-name="МАТЧ!",МАТЧ!
@@ -58,35 +58,33 @@ http://213.226.137.140:81/tl/l40/index.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
 http://93.189.224.246:52900/play/a012/index.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
-http://77.106.252.178:4022/udp/233.33.210.82:5050
-#EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
 http://185.50.148.2:7702/NTV/index.m3u8
+#EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
+http://77.106.252.178:4022/udp/233.33.210.82:5050
 #EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
 https://stream2.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
 https://flussonic.salomtv.uz/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
-http://213.226.137.140:81/tl/l40/mpegts
-#EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
 http://31.148.48.15/NTV/index.m3u8
+#EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
+http://213.226.137.140:81/tl/l40/mpegts
 #EXTINF:-1 group-title="НТВ" tvg-id="162" tvg-name="НТВ",НТВ
 http://130.193.73.10:8937/play/a00d
 #EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
 http://93.189.224.246:52900/play/a00y/index.m3u8
 #EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
-http://91.234.108.44:8886/udp/237.0.1.5:10000
+http://77.106.252.178:4022/udp/233.33.210.6:5050
 #EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
 http://178.163.16.7:4022/udp/234.0.0.205:2000
+#EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
+http://91.234.108.44:8886/udp/237.0.1.5:10000
 #EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
 http://94.230.128.105:8080/5_kanal/index.m3u8
 #EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
-http://95.83.111.209:4022/udp/239.255.40.25:5500
-#EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
 http://95.83.111.209:4022/udp/239.255.40.40:5500
-#EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
-http://95.83.111.209:4022/udp/239.255.40.54:5500
 #EXTINF:-1 group-title="ПЯТЫЙ КАНАЛ" tvg-id="427" tvg-name="Пятый канал",ПЯТЫЙ КАНАЛ
 http://185.23.80.28:8080/Pyatyj/index.m3u8?token=iptv50na50
 #EXTINF:-1 group-title="РОССИЯ-КУЛЬТУРА" tvg-id="187" tvg-name="Россия-Культура",РОССИЯ-КУЛЬТУРА
@@ -96,11 +94,9 @@ http://213.226.137.140:81/tl/l49/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ-КУЛЬТУРА" tvg-id="187" tvg-name="Россия-Культура",РОССИЯ-КУЛЬТУРА
 http://94.230.128.105:8080/Rossia_K/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ-КУЛЬТУРА" tvg-id="187" tvg-name="Россия-Культура",РОССИЯ-КУЛЬТУРА
-http://95.83.111.209:4022/udp/239.255.40.6:5500
+https://flussonic.salomtv.uz/RossiyaK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="РОССИЯ-КУЛЬТУРА" tvg-id="187" tvg-name="Россия-Культура",РОССИЯ-КУЛЬТУРА
 https://flussonic.salomtv.uz/RossiyaK/video.m3u8
-#EXTINF:-1 group-title="РОССИЯ-КУЛЬТУРА" tvg-id="187" tvg-name="Россия-Культура",РОССИЯ-КУЛЬТУРА
-https://flussonic.salomtv.uz/RossiyaK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="РОССИЯ-КУЛЬТУРА" tvg-id="187" tvg-name="Россия-Культура",РОССИЯ-КУЛЬТУРА
 http://213.226.137.140:81/tl/l49/mpegts
 #EXTINF:-1 group-title="РОССИЯ-КУЛЬТУРА" tvg-id="187" tvg-name="Россия-Культура",РОССИЯ-КУЛЬТУРА
@@ -109,26 +105,32 @@ http://91.234.108.44:8886/udp/237.0.1.6:10000
 http://178.163.16.7:4022/udp/234.0.0.202:2000
 #EXTINF:-1 group-title="РОССИЯ-КУЛЬТУРА" tvg-id="187" tvg-name="Россия-Культура",РОССИЯ-КУЛЬТУРА
 http://130.193.73.10:8937/play/a00m
+#EXTINF:-1 group-title="РОССИЯ-КУЛЬТУРА" tvg-id="187" tvg-name="Россия-Культура",РОССИЯ-КУЛЬТУРА
+http://194.158.222.36:6037/
 #EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
 http://213.226.137.140:81/tl/l44/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
-http://stream01.vnet.am/Rossia24/mono.m3u8
-#EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
 http://93.189.224.246:52900/play/a00o/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
+http://stream01.vnet.am/Rossia24/mono.m3u8
 #EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
 http://s5.merlive.am/Rossia24/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
 http://s7.merlive.am/Rossia24/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
-https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+https://flussonic.salomtv.uz/Rossiya24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
 https://stream2.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
-https://flussonic.salomtv.uz/Rossiya24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
-http://213.226.137.140:81/tl/l44/mpegts
+https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
 https://flussonic.salomtv.uz/Rossiya24/video.m3u8
+#EXTINF:-1 group-title="РОССИЯ 24" tvg-id="1683" tvg-name="РОССИЯ 24",РОССИЯ 24
+http://213.226.137.140:81/tl/l44/mpegts
+#EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
+http://193.242.190.6:8099/8/index.m3u8
+#EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
+http://s7.merlive.am/Karusel/index.m3u8
 #EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
 http://s1.merlive.am/Karusel/index.m3u8
 #EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
@@ -136,31 +138,27 @@ http://stream2.cinerama.uz/1034/index.m3u8
 #EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
 http://s5.merlive.am/Karusel/index.m3u8
 #EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
-http://s7.merlive.am/Karusel/index.m3u8
-#EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
-http://193.242.190.6:8099/8/index.m3u8
+https://flussonic.salomtv.uz/Karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
 https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
-https://flussonic.salomtv.uz/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
 https://stream1.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
-http://31.148.48.15/Karusel/index.m3u8
+https://flussonic.salomtv.uz/Karusel/video.m3u8
 #EXTINF:-1 group-title="КАРУСЕЛЬ" tvg-id="740" tvg-name="КАРУСЕЛЬ",КАРУСЕЛЬ
-http://91.234.108.44:8886/udp/237.0.1.8:10000
-#EXTINF:-1 group-title="ОТР" tvg-id="1000" tvg-name="ОТР",ОТР
-http://185.50.148.2:7702/OTR/index.m3u8
+http://31.148.48.15/Karusel/index.m3u8
 #EXTINF:-1 group-title="ОТР" tvg-id="1000" tvg-name="ОТР",ОТР
 http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1 group-title="ОТР" tvg-id="1000" tvg-name="ОТР",ОТР
-http://91.234.108.44:8886/udp/237.0.1.9:10000
+http://185.50.148.2:7702/OTR/index.m3u8
 #EXTINF:-1 group-title="ОТР" tvg-id="1000" tvg-name="ОТР",ОТР
-http://130.193.73.10:8937/play/a00e
+http://31.148.48.15/OTR/index.m3u8
+#EXTINF:-1 group-title="ОТР" tvg-id="1000" tvg-name="ОТР",ОТР
+http://91.234.108.44:8886/udp/237.0.1.9:10000
 #EXTINF:-1 group-title="ОТР" tvg-id="1000" tvg-name="ОТР",ОТР
 http://178.163.16.7:4022/udp/234.0.0.208:2000
 #EXTINF:-1 group-title="ОТР" tvg-id="1000" tvg-name="ОТР",ОТР
-http://31.148.48.15/OTR/index.m3u8
+http://130.193.73.10:8937/play/a00e
 #EXTINF:-1 group-title="ОТР" tvg-id="1000" tvg-name="ОТР",ОТР
 http://185.23.80.28:8080/OTR/index.m3u8?token=iptv50na50
 #EXTINF:-1 group-title="ТВ ЦЕНТР" tvg-id="649" tvg-name="ТВ ЦЕНТР",ТВ ЦЕНТР
@@ -174,19 +172,17 @@ http://213.226.137.140:81/tl/l28/mpegts
 #EXTINF:-1 group-title="ТВ ЦЕНТР" tvg-id="649" tvg-name="ТВ ЦЕНТР",ТВ ЦЕНТР
 http://91.234.108.44:8886/udp/237.0.1.141:10000
 #EXTINF:-1 group-title="ТВ ЦЕНТР" tvg-id="649" tvg-name="ТВ ЦЕНТР",ТВ ЦЕНТР
-http://178.163.16.7:4022/udp/234.0.0.192:2000
-#EXTINF:-1 group-title="ТВ ЦЕНТР" tvg-id="649" tvg-name="ТВ ЦЕНТР",ТВ ЦЕНТР
 http://91.234.108.44:8886/udp/237.0.1.10:10000
 #EXTINF:-1 group-title="ТВ ЦЕНТР" tvg-id="649" tvg-name="ТВ ЦЕНТР",ТВ ЦЕНТР
-http://130.193.73.10:8937/play/a00p
-#EXTINF:-1 group-title="ТВ ЦЕНТР" tvg-id="649" tvg-name="ТВ ЦЕНТР",ТВ ЦЕНТР
-http://95.83.111.209:4022/udp/239.255.40.28:5500
+http://178.163.16.7:4022/udp/234.0.0.192:2000
 #EXTINF:-1 group-title="ТВ ЦЕНТР" tvg-id="649" tvg-name="ТВ ЦЕНТР",ТВ ЦЕНТР
 http://95.83.111.209:4022/udp/239.255.40.42:5500
+#EXTINF:-1 group-title="ТВ ЦЕНТР" tvg-id="649" tvg-name="ТВ ЦЕНТР",ТВ ЦЕНТР
+http://95.83.111.209:4022/udp/239.255.40.57:5500
+#EXTINF:-1 group-title="ТВ ЦЕНТР" tvg-id="649" tvg-name="ТВ ЦЕНТР",ТВ ЦЕНТР
+https://stream2.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
 http://93.189.224.246:52900/play/a00v/index.m3u8
-#EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
-http://185.23.80.28:8080/REN/index.m3u8
 #EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
 http://s5.merlive.am/RENTV/index.m3u8
 #EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
@@ -194,13 +190,15 @@ http://s7.merlive.am/RENTV/index.m3u8
 #EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
 http://stream01.vnet.am/RenTv/mono.m3u8
 #EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
+http://185.23.80.28:8080/REN/index.m3u8
+#EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
 http://213.226.137.140:81/tl/l47/mpegts
 #EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
 http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
-http://91.234.108.44:8886/udp/237.0.1.11:10000
-#EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
 http://91.234.108.44:8886/udp/237.0.1.167:10000
+#EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
+http://91.234.108.44:8886/udp/237.0.1.11:10000
 #EXTINF:-1 group-title="РЕН ТВ" tvg-id="18" tvg-name="РЕН ТВ",РЕН ТВ
 http://178.163.16.7:4022/udp/234.0.0.240:2000
 #EXTINF:-1 group-title="ИЗВЕСТИЯ" tvg-id="2271" tvg-name="ИЗВЕСТИЯ",ИЗВЕСТИЯ
@@ -209,8 +207,6 @@ http://s1.merlive.am/izvestia/index.m3u8
 http://85.172.79.221:36037/live/iz/playlist_iz.m3u8
 #EXTINF:-1 group-title="ИЗВЕСТИЯ" tvg-id="2271" tvg-name="ИЗВЕСТИЯ",ИЗВЕСТИЯ
 http://46.181.221.113:81/udp/239.255.42.151:1234
-#EXTINF:-1 group-title="ИЗВЕСТИЯ" tvg-id="2271" tvg-name="ИЗВЕСТИЯ",ИЗВЕСТИЯ
-http://37.205.83.56:81/udp/239.0.42.71:1224
 #EXTINF:-1 group-title="ИЗВЕСТИЯ" tvg-id="2271" tvg-name="ИЗВЕСТИЯ",ИЗВЕСТИЯ
 http://65.21.85.175:8000/play/a01h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="ИЗВЕСТИЯ" tvg-id="2271" tvg-name="ИЗВЕСТИЯ",ИЗВЕСТИЯ
@@ -224,23 +220,23 @@ http://213.226.137.140:81/tl/l43/mpegts
 #EXTINF:-1 group-title="СТС" tvg-id="79" tvg-name="СТС",СТС
 http://130.193.73.10:8937/play/a01w
 #EXTINF:-1 group-title="СТС" tvg-id="79" tvg-name="СТС",СТС
+http://91.234.108.44:8886/udp/237.0.1.13:10000
+#EXTINF:-1 group-title="СТС" tvg-id="79" tvg-name="СТС",СТС
 http://91.234.108.44:8886/udp/237.0.1.169:10000
 #EXTINF:-1 group-title="СТС" tvg-id="79" tvg-name="СТС",СТС
 http://178.163.16.7:4022/udp/234.0.0.239:2000
 #EXTINF:-1 group-title="СТС" tvg-id="79" tvg-name="СТС",СТС
-http://91.234.108.44:8886/udp/237.0.1.13:10000
+http://193.242.190.6:8099/13/index.m3u8
 #EXTINF:-1 group-title="СТС" tvg-id="79" tvg-name="СТС",СТС
 http://94.230.128.105:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="СТС" tvg-id="79" tvg-name="СТС",СТС
-http://95.83.111.209:4022/udp/239.255.40.30:5500
-#EXTINF:-1 group-title="СТС" tvg-id="79" tvg-name="СТС",СТС
-http://193.242.190.6:8099/13/index.m3u8
+http://s1.merlive.am/sts/index.m3u8
 #EXTINF:-1 group-title="ДОМАШНИЙ" tvg-id="304" tvg-name="ДОМАШНИЙ",ДОМАШНИЙ
 http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 #EXTINF:-1 group-title="ДОМАШНИЙ" tvg-id="304" tvg-name="ДОМАШНИЙ",ДОМАШНИЙ
-https://flussonic.salomtv.uz/Domashniy/video.m3u8
-#EXTINF:-1 group-title="ДОМАШНИЙ" tvg-id="304" tvg-name="ДОМАШНИЙ",ДОМАШНИЙ
 https://flussonic.salomtv.uz/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ДОМАШНИЙ" tvg-id="304" tvg-name="ДОМАШНИЙ",ДОМАШНИЙ
+https://flussonic.salomtv.uz/Domashniy/video.m3u8
 #EXTINF:-1 group-title="ДОМАШНИЙ" tvg-id="304" tvg-name="ДОМАШНИЙ",ДОМАШНИЙ
 http://178.163.16.7:4022/udp/234.0.0.191:2000
 #EXTINF:-1 group-title="ДОМАШНИЙ" tvg-id="304" tvg-name="ДОМАШНИЙ",ДОМАШНИЙ
@@ -252,29 +248,29 @@ http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ДОМАШНИЙ" tvg-id="304" tvg-name="ДОМАШНИЙ",ДОМАШНИЙ
 http://95.83.111.209:4022/udp/239.255.40.31:5500
 #EXTINF:-1 group-title="ДОМАШНИЙ" tvg-id="304" tvg-name="ДОМАШНИЙ",ДОМАШНИЙ
-http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
+http://95.83.111.209:4022/udp/239.255.40.45:5500
 #EXTINF:-1 group-title="ДОМАШНИЙ" tvg-id="304" tvg-name="ДОМАШНИЙ",ДОМАШНИЙ
-http://185.23.80.28:8080/Domashnij/index.m3u8?token=iptv50na50
+http://95.83.111.209:4022/udp/239.255.40.60:5500
 #EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
 http://213.226.137.140:81/tl/l51/index.m3u8
 #EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
-http://stream01.vnet.am/Channel_121/mono.m3u8
-#EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
 http://93.189.224.246:52900/play/a016/index.m3u8
+#EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
+http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
 https://flussonic.salomtv.uz/TV3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
+https://flussonic.salomtv.uz/TV3/video.m3u8
+#EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
 https://flussonic.salomtv.uz/TV3/index.m3u8
 #EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
-http://213.226.137.140:81/tl/l51/mpegts
+http://77.106.252.178:4022/udp/233.33.220.56:5050
 #EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
-https://flussonic.salomtv.uz/TV3/video.m3u8
+http://213.226.137.140:81/tl/l51/mpegts
 #EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
 http://86.57.178.105:9951/tv3
 #EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
 http://130.193.73.10:8937/play/a03q
-#EXTINF:-1 group-title="ТВ3" tvg-id="698" tvg-name="ТВ3",ТВ3
-http://91.234.108.44:8886/udp/237.0.1.15:10000
 #EXTINF:-1 group-title="ПЯТНИЦА!" tvg-id="1003" tvg-name="ПЯТНИЦА!",ПЯТНИЦА!
 http://213.226.137.140:81/tl/l48/index.m3u8
 #EXTINF:-1 group-title="ПЯТНИЦА!" tvg-id="1003" tvg-name="ПЯТНИЦА!",ПЯТНИЦА!
@@ -286,47 +282,47 @@ http://213.226.137.140:81/tl/l48/mpegts
 #EXTINF:-1 group-title="ПЯТНИЦА!" tvg-id="1003" tvg-name="ПЯТНИЦА!",ПЯТНИЦА!
 http://91.234.108.44:8886/udp/237.0.1.17:10000
 #EXTINF:-1 group-title="ПЯТНИЦА!" tvg-id="1003" tvg-name="ПЯТНИЦА!",ПЯТНИЦА!
-http://130.193.73.10:8937/play/a018
-#EXTINF:-1 group-title="ПЯТНИЦА!" tvg-id="1003" tvg-name="ПЯТНИЦА!",ПЯТНИЦА!
 http://178.163.16.7:4022/udp/234.0.0.235:2000
 #EXTINF:-1 group-title="ПЯТНИЦА!" tvg-id="1003" tvg-name="ПЯТНИЦА!",ПЯТНИЦА!
-http://94.230.128.105:8080/Friday/index.m3u8
+http://130.193.73.10:8937/play/a018
 #EXTINF:-1 group-title="ПЯТНИЦА!" tvg-id="1003" tvg-name="ПЯТНИЦА!",ПЯТНИЦА!
 http://193.242.190.6:8099/16/index.m3u8
 #EXTINF:-1 group-title="ПЯТНИЦА!" tvg-id="1003" tvg-name="ПЯТНИЦА!",ПЯТНИЦА!
 http://95.83.111.209:4022/udp/239.255.40.33:5500
+#EXTINF:-1 group-title="ПЯТНИЦА!" tvg-id="1003" tvg-name="ПЯТНИЦА!",ПЯТНИЦА!
+http://94.230.128.105:8080/Friday/index.m3u8
 #EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
 http://213.226.137.140:81/tl/l50/index.m3u8
 #EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
+http://93.189.224.246:52900/play/a015/index.m3u8
+#EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
 http://stream01.vnet.am/Zvezda/mono.m3u8
 #EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
-http://93.189.224.246:52900/play/a015/index.m3u8
+http://s5.merlive.am/Zvezda/index.m3u8
 #EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
 http://stream01.vnet.am/Zvezda/index.m3u8
 #EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
 http://s7.merlive.am/Zvezda/index.m3u8
 #EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
-http://s5.merlive.am/Zvezda/index.m3u8
+https://flussonic.salomtv.uz/Zvezda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
+https://flussonic.salomtv.uz/Zvezda/video.m3u8
 #EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
 http://213.226.137.140:81/tl/l50/mpegts
 #EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
-https://flussonic.salomtv.uz/Zvezda/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
 http://31.148.48.15/Zvezda/index.m3u8
-#EXTINF:-1 group-title="ЗВЕЗДА" tvg-id="405" tvg-name="ЗВЕЗДА",ЗВЕЗДА
-http://91.234.108.44:8886/udp/237.0.1.18:10000
 #EXTINF:-1 group-title="МИР" tvg-id="726" tvg-name="МИР",МИР
 http://hls127.homeiptv.org:8880/MIR/video.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="726" tvg-name="МИР",МИР
 http://stream02.vnet.am/Mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="726" tvg-name="МИР",МИР
-http://s1.merlive.am/Mir/index.m3u8
+http://s5.merlive.am/Mir/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="726" tvg-name="МИР",МИР
-http://94.230.128.105:8080/MIR/index.m3u8
+http://s1.merlive.am/Mir/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="726" tvg-name="МИР",МИР
 http://s7.merlive.am/Mir/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="726" tvg-name="МИР",МИР
-http://s5.merlive.am/Mir/index.m3u8
+http://94.230.128.105:8080/MIR/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="726" tvg-name="МИР",МИР
 https://stream2.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="726" tvg-name="МИР",МИР
@@ -336,9 +332,9 @@ https://flussonic.salomtv.uz/Mirtv/video.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="726" tvg-name="МИР",МИР
 http://31.148.48.15/Mir/index.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
-http://185.50.148.2:7702/TNT/index.m3u8
-#EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
 http://93.189.224.246:52900/play/a00u/index.m3u8
+#EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
+http://185.50.148.2:7702/TNT/index.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
 http://130.193.73.10:8937/play/a01y
 #EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
@@ -348,13 +344,13 @@ http://178.163.16.7:4022/udp/234.0.0.186:2000
 #EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
 http://193.242.190.6:8099/19/index.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
+http://95.83.111.209:4022/udp/239.255.40.36:5500
+#EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
 http://95.83.111.209:4022/udp/239.255.40.50:5500
 #EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
 http://s1.merlive.am/tnt/index.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
 http://95.83.111.209:4022/udp/239.255.40.65:5500
-#EXTINF:-1 group-title="ТНТ" tvg-id="353" tvg-name="ТНТ",ТНТ
-http://94.230.128.105:8080/THT/index.m3u8
 #EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
 http://hls127.homeiptv.org:8880/MUZ_TV/video.m3u8
 #EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
@@ -362,13 +358,13 @@ http://stream01.vnet.am/MuzTv/mono.m3u8
 #EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
 http://s1.merlive.am/muztv/index.m3u8
 #EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
-http://s7.merlive.am/muztv/index.m3u8
-#EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
 http://s5.merlive.am/muztv/index.m3u8
 #EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
-https://stream2.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+http://s7.merlive.am/muztv/index.m3u8
 #EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
 https://stream1.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
+https://stream2.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
 http://91.234.108.44:8886/udp/237.0.1.21:10000
 #EXTINF:-1 group-title="МУЗ-ТВ" tvg-id="897" tvg-name="МУЗ-ТВ",МУЗ-ТВ
@@ -408,23 +404,23 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 group-title="КУХНЯ ТВ" tvg-id="614" tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
 http://stream2.cinerama.uz/1236/index.m3u8
 #EXTINF:-1 group-title="КУХНЯ ТВ" tvg-id="614" tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
-http://80.245.93.242:9030/play/a03a/index.m3u8
-#EXTINF:-1 group-title="КУХНЯ ТВ" tvg-id="614" tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
-http://213.226.137.140:81/tl/l65/mpegts
+https://stream1.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КУХНЯ ТВ" tvg-id="614" tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
 https://stream2.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КУХНЯ ТВ" tvg-id="614" tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
-https://stream1.cinerama.uz/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="КУХНЯ ТВ" tvg-id="614" tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 group-title="КУХНЯ ТВ" tvg-id="614" tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
+http://80.245.93.242:9030/play/a03a/index.m3u8
+#EXTINF:-1 group-title="КУХНЯ ТВ" tvg-id="614" tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
 https://flussonic.salomtv.uz/KuxnyaTV/video.m3u8
+#EXTINF:-1 group-title="КУХНЯ ТВ" tvg-id="614" tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
+http://213.226.137.140:81/tl/l65/mpegts
+#EXTINF:-1 group-title="НТВ СТИЛЬ" tvg-id="1755" tvg-name="НТВ Стиль",НТВ СТИЛЬ
+http://s5.merlive.am/ntvstil/index.m3u8
 #EXTINF:-1 group-title="НТВ СТИЛЬ" tvg-id="1755" tvg-name="НТВ Стиль",НТВ СТИЛЬ
 http://s1.merlive.am/ntvstil/index.m3u8
 #EXTINF:-1 group-title="НТВ СТИЛЬ" tvg-id="1755" tvg-name="НТВ Стиль",НТВ СТИЛЬ
 http://s7.merlive.am/ntvstil/index.m3u8
-#EXTINF:-1 group-title="НТВ СТИЛЬ" tvg-id="1755" tvg-name="НТВ Стиль",НТВ СТИЛЬ
-http://s5.merlive.am/ntvstil/index.m3u8
 #EXTINF:-1 group-title="НТВ СТИЛЬ" tvg-id="1755" tvg-name="НТВ Стиль",НТВ СТИЛЬ
 http://185.23.80.28:8080/NTVStil/index.m3u8?token=iptv50na50
 #EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
@@ -432,19 +428,19 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
 http://radio.tvs.by:8088/Usadba/index.m3u8
 #EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
-http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
-#EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
 http://stream2.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
+http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
 http://stream2.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
 https://stream1.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
-http://130.193.73.10:8937/play/a024
+https://stream1.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
 http://178.163.16.7:4022/udp/234.0.0.220:2000
 #EXTINF:-1 group-title="УСАДЬБА" tvg-id="434" tvg-name="УСАДЬБА",УСАДЬБА
-https://stream1.cinerama.uz/1427/index.m3u8
+http://130.193.73.10:8937/play/a024
 #EXTINF:-1 group-title="ДИКИЙ" tvg-id="2283" tvg-name="ДИКИЙ",ДИКИЙ
 http://hls127.homeiptv.org:8880/Dikiy/video.m3u8
 #EXTINF:-1 group-title="ДИКИЙ" tvg-id="2283" tvg-name="ДИКИЙ",ДИКИЙ
@@ -464,15 +460,17 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="ЗОО ТВ" tvg-id="2431" tvg-name="ЗОО ТВ",ЗОО ТВ
 http://185.23.80.28:8080/ZooTV/index.m3u8?token=iptv50na50
 #EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
+http://86.57.198.251:8181/play/1018/index.m3u8
+#EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
 http://213.226.137.140:81/tl/l96/index.m3u8
 #EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
 http://stream2.cinerama.uz/1228/mono.m3u8
 #EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
-http://185.50.148.2:7703/ViasatNature/index.m3u8
-#EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
 http://stream2.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
-http://86.57.198.251:8181/play/1018/index.m3u8
+http://185.50.148.2:7703/ViasatNature/index.m3u8
+#EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
+http://195.26.83.96:7013/play/37/index.m3u8
 #EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
 http://stream2.cinerama.uz/1228/index.m3u8
 #EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
@@ -481,43 +479,39 @@ https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 http://213.226.137.140:81/tl/l96/mpegts
 #EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
 http://130.193.73.10:8937/play/a01k
-#EXTINF:-1 group-title="VIJU NATURE" tvg-id="765" tvg-name="VIJU NATURE",VIJU NATURE
-http://195.26.83.96:7013/play/37/index.m3u8
-#EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
-http://s1.merlive.am/Zoopark/index.m3u8
-#EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
-http://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
-http://stream2.cinerama.uz/1417/index.m3u8
-#EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
-http://s7.merlive.am/zoopark/index.m3u8
 #EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
 http://185.37.150.40:8092/Zoo/playlist.m3u8
 #EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
 http://s5.merlive.am/zoopark/index.m3u8
 #EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
-https://flussonic.salomtv.uz/ZooPark/tracks-v1a1/mono.m3u8
+http://s1.merlive.am/Zoopark/index.m3u8
 #EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
-http://178.163.16.7:4022/udp/234.0.0.216:2000
+http://s7.merlive.am/zoopark/index.m3u8
+#EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
+http://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
+http://stream2.cinerama.uz/1417/index.m3u8
 #EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
 https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
-https://flussonic.salomtv.uz/ZooPark/video.m3u8
+http://178.163.16.7:4022/udp/234.0.0.216:2000
+#EXTINF:-1 group-title="ZOOПАРК" tvg-id="367" tvg-name="ZOOПАРК",ZOOПАРК
+http://91.207.115.228:5000/c177
 #EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
 http://213.226.137.140:81/tl/l413/mpegts
 #EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
 http://213.226.137.140:81/tl/l413/index.m3u8
 #EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
-http://stream2.cinerama.uz/1242/mono.m3u8
-#EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
 http://fs2.persik.by/365dney/index.m3u8
 #EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
-https://stream2.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+http://stream2.cinerama.uz/1242/mono.m3u8
 #EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
 https://stream1.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
-https://flussonic.salomtv.uz/365Dney/video.m3u8
+https://stream2.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
 https://flussonic.salomtv.uz/365Dney/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
+https://flussonic.salomtv.uz/365Dney/video.m3u8
 #EXTINF:-1 group-title="365 ДНЕЙ ТВ" tvg-id="2423" tvg-name="365 ДНЕЙ ТВ",365 ДНЕЙ ТВ
 http://65.21.85.175:8000/play/a00e/index.m3u8?token=livetv
