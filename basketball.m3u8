@@ -1,217 +1,115 @@
-#EXTM3U url-tvg="http://defaultgen.com:3050/xmltv.php?username=tamikasbrn@yahoo.com&password=ltkAHHfzAD"
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",1. ESPN 1 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/509097
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",2. ESPN 1 (f)
+#EXTM3U url-tvg="http://defaultgen.com:3050/xmltv.php?username=joannedias68@gmail.com&password=hnxt84JnFq"
+#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",1. ESPN 1 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/14197
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",3. ESPN 1 (f)
+#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",2. ESPN 1 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/9802
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",4. ESPN 1 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/177207.ts
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",5. ESPN 1 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220406.ts
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",6. ESPN 1 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/226642.ts
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",7. ESPN 1 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/2420493.ts
-#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",1. ESPN 2 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/509098
-#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",2. ESPN 2 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418173
-#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",3. ESPN 2 (f)
+#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",3. ESPN 1 (l)
+http://lazer.cfd:80/uu0229/PH6295/294173.ts
+#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",1. ESPN 2 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/2210
-#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",4. ESPN 2 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220407.ts
-#EXTINF:-1 group-title="EUROSPORT 1 ENG" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1 ENG" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",1. EUROSPORT 1 ENG (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/360767
-#EXTINF:-1 group-title="EUROSPORT 1 ENG" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1 ENG" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",2. EUROSPORT 1 ENG (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/508204
-#EXTINF:-1 group-title="EUROSPORT 1 ENG" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1 ENG" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",3. EUROSPORT 1 ENG (f)
+#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",2. ESPN 2 (l)
+http://lazer.cfd:80/uu0229/PH6295/294174.ts
+#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",1. EUROSPORT 1 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/53713
-#EXTINF:-1 group-title="EUROSPORT 1 ENG" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1 ENG" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",4. EUROSPORT 1 ENG (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/391450.ts
-#EXTINF:-1 group-title="EUROSPORT 1 ENG" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1 ENG" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",5. EUROSPORT 1 ENG (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/1846756.ts
-#EXTINF:-1 group-title="EUROSPORT 2 ENG" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2 ENG" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",1. EUROSPORT 2 ENG (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/360768
-#EXTINF:-1 group-title="EUROSPORT 2 ENG" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2 ENG" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",2. EUROSPORT 2 ENG (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/508206
-#EXTINF:-1 group-title="EUROSPORT 2 ENG" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2 ENG" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",3. EUROSPORT 2 ENG (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/1847082.ts
-#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",1. FOX SPORTS 1 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/509106
-#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",2. FOX SPORTS 1 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418178
-#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",3. FOX SPORTS 1 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/613205
-#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",4. FOX SPORTS 1 (f)
+#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",2. EUROSPORT 1 (l)
+http://lazer.cfd:80/uu0229/PH6295/295627.ts
+#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",3. EUROSPORT 1 (l)
+http://lazer.cfd:80/uu0229/PH6295/295613.ts
+#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",4. EUROSPORT 1 (l)
+http://lazer.cfd:80/uu0229/PH6295/292536.ts
+#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",5. EUROSPORT 1 (l)
+http://lazer.cfd:80/uu0229/PH6295/295778.ts
+#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",6. EUROSPORT 1 (l)
+http://lazer.cfd:80/uu0229/PH6295/295764.ts
+#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",1. EUROSPORT 2 (l)
+http://lazer.cfd:80/uu0229/PH6295/295614.ts
+#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",2. EUROSPORT 2 (l)
+http://lazer.cfd:80/uu0229/PH6295/295628.ts
+#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",3. EUROSPORT 2 (l)
+http://lazer.cfd:80/uu0229/PH6295/292537.ts
+#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",4. EUROSPORT 2 (l)
+http://lazer.cfd:80/uu0229/PH6295/295765.ts
+#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",5. EUROSPORT 2 (l)
+http://lazer.cfd:80/uu0229/PH6295/295779.ts
+#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",1. FOX SPORTS 1 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/46792
-#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",5. FOX SPORTS 1 (f)
+#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",2. FOX SPORTS 1 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/1846
-#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",6. FOX SPORTS 1 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220387.ts
-#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",1. FOX SPORTS 2 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/509107
-#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",2. FOX SPORTS 2 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418179
-#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",3. FOX SPORTS 2 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/613206
-#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",4. FOX SPORTS 2 (f)
+#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",3. FOX SPORTS 1 (l)
+http://lazer.cfd:80/uu0229/PH6295/294182.ts
+#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",1. FOX SPORTS 2 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/1847
-#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",5. FOX SPORTS 2 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220388.ts
-#EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",1. NBA TV CANADA (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/423815
-#EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",2. NBA TV CANADA (f)
+#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",2. FOX SPORTS 2 (l)
+http://lazer.cfd:80/uu0229/PH6295/294183.ts
+#EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",1. NBA TV CANADA (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/22995
-#EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",3. NBA TV CANADA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/182026.ts
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",1. NBA TV USA (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/509126
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",2. NBA TV USA (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418182
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",3. NBA TV USA (f)
+#EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",2. NBA TV CANADA (l)
+http://lazer.cfd:80/uu0229/PH6295/295718.ts
+#EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",3. NBA TV CANADA (l)
+http://lazer.cfd:80/uu0229/PH6295/295869.ts
+#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",1. NBA TV USA (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20073
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",4. NBA TV USA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/176154.ts
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",5. NBA TV USA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/395217.ts
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",6. NBA TV USA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/1284155.ts
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",1. NBC SPORTS BAY AREA (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418154
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",2. NBC SPORTS BAY AREA (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/640552
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",3. NBC SPORTS BAY AREA (f)
+#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",2. NBA TV USA (l)
+http://lazer.cfd:80/uu0229/PH6295/295717.ts
+#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",3. NBA TV USA (l)
+http://lazer.cfd:80/uu0229/PH6295/295868.ts
+#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",1. NBC SPORTS BAY AREA (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/9900
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",4. NBC SPORTS BAY AREA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220425.ts
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",5. NBC SPORTS BAY AREA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220432.ts
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",6. NBC SPORTS BAY AREA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/514055.ts
-#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",1. NBC SPORTS BOSTON (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418155
-#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",2. NBC SPORTS BOSTON (f)
+#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",2. NBC SPORTS BAY AREA (l)
+http://lazer.cfd:80/uu0229/PH6295/294201.ts
+#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",1. NBC SPORTS BOSTON (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20939
-#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",3. NBC SPORTS BOSTON (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220426.ts
-#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",4. NBC SPORTS BOSTON (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220433.ts
-#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",5. NBC SPORTS BOSTON (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/514056.ts
-#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",1. NBC SPORTS CALIFORNIA (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418156
-#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",2. NBC SPORTS CALIFORNIA (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/640553
-#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",3. NBC SPORTS CALIFORNIA (f)
+#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",2. NBC SPORTS BOSTON (l)
+http://lazer.cfd:80/uu0229/PH6295/294202.ts
+#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",1. NBC SPORTS CALIFORNIA (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20940
-#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",4. NBC SPORTS CALIFORNIA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/514058.ts
-#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",5. NBC SPORTS CALIFORNIA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/514057.ts
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",1. NBC SPORTS PHILADELPHIA (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418158
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",2. NBC SPORTS PHILADELPHIA (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418159
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",3. NBC SPORTS PHILADELPHIA (f)
+#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",2. NBC SPORTS CALIFORNIA (l)
+http://lazer.cfd:80/uu0229/PH6295/294203.ts
+#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",1. NBC SPORTS PHILADELPHIA (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20943
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",4. NBC SPORTS PHILADELPHIA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220436.ts
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",5. NBC SPORTS PHILADELPHIA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/220430.ts
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",6. NBC SPORTS PHILADELPHIA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/1565710.ts
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",7. NBC SPORTS PHILADELPHIA (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/514063.ts
-#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",1. NBC SPORTS WASHINGTON (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418161
-#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",2. NBC SPORTS WASHINGTON (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418160
-#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",3. NBC SPORTS WASHINGTON (f)
+#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",2. NBC SPORTS PHILADELPHIA (l)
+http://lazer.cfd:80/uu0229/PH6295/294208.ts
+#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",3. NBC SPORTS PHILADELPHIA (l)
+http://lazer.cfd:80/uu0229/PH6295/294207.ts
+#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",1. NBC SPORTS WASHINGTON (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20944
-#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",4. NBC SPORTS WASHINGTON (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/514064.ts
-#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",5. NBC SPORTS WASHINGTON (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/514065.ts
-#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",6. NBC SPORTS WASHINGTON (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/514066.ts
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",1. TNT (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/417915
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",2. TNT (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/509143
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",3. TNT (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/649436
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",4. TNT (f)
+#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",2. NBC SPORTS WASHINGTON (l)
+http://lazer.cfd:80/uu0229/PH6295/294209.ts
+#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",1. TNT (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/10455
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",5. TNT (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/175951.ts
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",6. TNT (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/175952.ts
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",7. TNT (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/1387217.ts
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",8. TNT (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/2036379.ts
-#EXTINF:-1 group-title="TNT (WEST)" tvg-id="TNTPacific.us" tvg-name="TNT (WEST)" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tntpacific.png",1. TNT (WEST) (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/419362
-#EXTINF:-1 group-title="TNT (WEST)" tvg-id="TNTPacific.us" tvg-name="TNT (WEST)" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tntpacific.png",2. TNT (WEST) (f)
+#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",2. TNT (l)
+http://lazer.cfd:80/uu0229/PH6295/294938.ts
+#EXTINF:-1 group-title="TNT (WEST)" tvg-id="TNTPacific.us" tvg-name="TNT (WEST)" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tntpacific.png",1. TNT (WEST) (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/46688
-#EXTINF:-1 group-title="TNT (WEST)" tvg-id="TNTPacific.us" tvg-name="TNT (WEST)" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tntpacific.png",3. TNT (WEST) (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/175954.ts
-#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",1. TSN 1 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418553
-#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",2. TSN 1 (f)
+#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",1. TSN 1 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/57292
-#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",3. TSN 1 (f)
+#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",2. TSN 1 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/47440
-#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",4. TSN 1 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/182183.ts
-#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",5. TSN 1 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/228697.ts
-#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",1. TSN 2 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418554
-#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",2. TSN 2 (f)
+#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",3. TSN 1 (l)
+http://lazer.cfd:80/uu0229/PH6295/291923.ts
+#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",1. TSN 2 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/16129
-#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",3. TSN 2 (f)
+#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",2. TSN 2 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/47442
-#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",4. TSN 2 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/182184.ts
-#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",5. TSN 2 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/1620259.ts
-#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",1. TSN 3 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418555
-#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",2. TSN 3 (f)
+#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",3. TSN 2 (l)
+http://lazer.cfd:80/uu0229/PH6295/291924.ts
+#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",1. TSN 3 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/10389
-#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",3. TSN 3 (f)
+#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",2. TSN 3 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/47444
-#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",4. TSN 3 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/182185.ts
-#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",5. TSN 3 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/1620260.ts
-#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",1. TSN 4 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418534
-#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",2. TSN 4 (f)
+#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",3. TSN 3 (l)
+http://lazer.cfd:80/uu0229/PH6295/291925.ts
+#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",1. TSN 4 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/66783
-#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",3. TSN 4 (f)
+#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",2. TSN 4 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/47446
-#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",4. TSN 4 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/182186.ts
-#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",5. TSN 4 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/182188.ts
-#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",6. TSN 4 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/1620261.ts
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",1. TSN 5 (d)
-http://defaultgen.com:3050/tamikasbrn@yahoo.com/ltkAHHfzAD/418535
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",2. TSN 5 (f)
+#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",3. TSN 4 (l)
+http://lazer.cfd:80/uu0229/PH6295/291926.ts
+#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",1. TSN 5 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/57467
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",3. TSN 5 (f)
+#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",2. TSN 5 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/16131
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",4. TSN 5 (f)
+#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",3. TSN 5 (f)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/57295
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",5. TSN 5 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/182190.ts
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",6. TSN 5 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/182189.ts
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",7. TSN 5 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/182187.ts
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",8. TSN 5 (x)
-http://xhdiptv.net:80/Silverio42/Olivier351/1620262.ts
+#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",4. TSN 5 (l)
+http://lazer.cfd:80/uu0229/PH6295/291927.ts
