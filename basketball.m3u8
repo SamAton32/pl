@@ -1,175 +1,103 @@
 #EXTM3U
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",ESPN 1 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23586
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",ESPN 1 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23695
 #EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",ESPN 1 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/14197
 #EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",ESPN 1 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/9802
-#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",ESPN 1 (la)
-http://lazer.cfd:80/uu0229/PH6295/294173.ts
-#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",ESPN 2 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23585
-#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",ESPN 2 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23694
+#EXTINF:-1 group-title="ESPN 1" tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn1.png",ESPN 1 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVq3nTp3s_aqvhA3GivKpPUc/ts
 #EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",ESPN 2 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/2210
-#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",ESPN 2 (la)
-http://lazer.cfd:80/uu0229/PH6295/294174.ts
-#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",EUROSPORT 1 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/247838
+#EXTINF:-1 group-title="ESPN 2" tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/espn2.png",ESPN 2 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVt_xwZzEMIED2GL4xUO5yQE/ts
 #EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",EUROSPORT 1 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/53713
-#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",EUROSPORT 1 (la)
-http://lazer.cfd:80/uu0229/PH6295/295627.ts
-#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",EUROSPORT 1 (la)
-http://lazer.cfd:80/uu0229/PH6295/295613.ts
-#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",EUROSPORT 1 (la)
-http://lazer.cfd:80/uu0229/PH6295/292536.ts
-#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",EUROSPORT 1 (la)
-http://lazer.cfd:80/uu0229/PH6295/295778.ts
-#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",EUROSPORT 1 (la)
-http://lazer.cfd:80/uu0229/PH6295/295764.ts
-#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",EUROSPORT 2 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/247837
-#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",EUROSPORT 2 (la)
-http://lazer.cfd:80/uu0229/PH6295/295614.ts
-#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",EUROSPORT 2 (la)
-http://lazer.cfd:80/uu0229/PH6295/295628.ts
-#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",EUROSPORT 2 (la)
-http://lazer.cfd:80/uu0229/PH6295/292537.ts
-#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",EUROSPORT 2 (la)
-http://lazer.cfd:80/uu0229/PH6295/295765.ts
-#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",EUROSPORT 2 (la)
-http://lazer.cfd:80/uu0229/PH6295/295779.ts
-#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",FOX SPORTS 1 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23628
-#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",FOX SPORTS 1 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35157
+#EXTINF:-1 group-title="EUROSPORT 1" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport1.png",EUROSPORT 1 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVp97PJ55ZLJPNckFFFZPZYA/ts
+#EXTINF:-1 group-title="EUROSPORT 2" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/eurosport2.png",EUROSPORT 2 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVue8g4nX6UQga1-wyawpsR8/ts
 #EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",FOX SPORTS 1 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/46792
 #EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",FOX SPORTS 1 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/1846
-#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",FOX SPORTS 1 (la)
-http://lazer.cfd:80/uu0229/PH6295/294182.ts
-#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",FOX SPORTS 2 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23627
-#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",FOX SPORTS 2 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35158
+#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",FOX SPORTS 1 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVtyzizWyKbSad7reQyqkBtI/ts
+#EXTINF:-1 group-title="FOX SPORTS 1" tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports1.png",FOX SPORTS 1 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVlYUwl68-XKkIZtg6GxZL3E/ts
 #EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",FOX SPORTS 2 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/1847
-#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",FOX SPORTS 2 (la)
-http://lazer.cfd:80/uu0229/PH6295/294183.ts
-#EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",NBA TV CANADA (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/254691
+#EXTINF:-1 group-title="FOX SPORTS 2" tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/foxsports2.png",FOX SPORTS 2 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVglMfMQj16iF3_9ju2o_4z0/ts
 #EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",NBA TV CANADA (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/22995
-#EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",NBA TV CANADA (la)
-http://lazer.cfd:80/uu0229/PH6295/295718.ts
-#EXTINF:-1 group-title="NBA TV CANADA" tvg-id="nbatv.ca" tvg-name="NBA TV CANADA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvca.png",NBA TV CANADA (la)
-http://lazer.cfd:80/uu0229/PH6295/295869.ts
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",NBA TV USA (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23398
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",NBA TV USA (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35332
 #EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",NBA TV USA (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20073
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",NBA TV USA (la)
-http://lazer.cfd:80/uu0229/PH6295/295717.ts
-#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",NBA TV USA (la)
-http://lazer.cfd:80/uu0229/PH6295/295868.ts
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",NBC SPORTS BAY AREA (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23662
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",NBC SPORTS BAY AREA (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35357
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",NBC SPORTS BAY AREA (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35358
+#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",NBA TV USA (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVsDSxCbZIlO8C-NnH2k65Ss/ts
+#EXTINF:-1 group-title="NBA TV USA" tvg-id="nbatv.us" tvg-name="NBA TV USA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbatvus.png",NBA TV USA (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVvMFQL4zXJJ7pz0yMcJm7f8/ts
 #EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",NBC SPORTS BAY AREA (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/9900
-#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",NBC SPORTS BAY AREA (la)
-http://lazer.cfd:80/uu0229/PH6295/294201.ts
-#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",NBC SPORTS BOSTON (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35359
+#EXTINF:-1 group-title="NBC SPORTS BAY AREA" tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsbayarea.png",NBC SPORTS BAY AREA (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVsWOqIn9H5tpTb7Luc5WdHc/ts
 #EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",NBC SPORTS BOSTON (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20939
-#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",NBC SPORTS BOSTON (la)
-http://lazer.cfd:80/uu0229/PH6295/294202.ts
-#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",NBC SPORTS CALIFORNIA (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35360
+#EXTINF:-1 group-title="NBC SPORTS BOSTON" tvg-id="nbcsportsboston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsboston.png",NBC SPORTS BOSTON (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVtFzMsWFdSsexB_UmzaqC9A/ts
 #EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",NBC SPORTS CALIFORNIA (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20940
-#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",NBC SPORTS CALIFORNIA (la)
-http://lazer.cfd:80/uu0229/PH6295/294203.ts
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",NBC SPORTS PHILADELPHIA (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35363
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",NBC SPORTS PHILADELPHIA (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35364
+#EXTINF:-1 group-title="NBC SPORTS CALIFORNIA" tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportscalifornia.png",NBC SPORTS CALIFORNIA (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVupXK3l-ElfVGZxegG_IqME/ts
 #EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",NBC SPORTS PHILADELPHIA (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20943
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",NBC SPORTS PHILADELPHIA (la)
-http://lazer.cfd:80/uu0229/PH6295/294208.ts
-#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",NBC SPORTS PHILADELPHIA (la)
-http://lazer.cfd:80/uu0229/PH6295/294207.ts
-#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",NBC SPORTS WASHINGTON (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35365
-#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",NBC SPORTS WASHINGTON (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/35366
+#EXTINF:-1 group-title="NBC SPORTS PHILADELPHIA" tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportsphiladelphia.png",NBC SPORTS PHILADELPHIA (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVl7Gp6QEBjlwFEOYciL-g6Q/ts
 #EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",NBC SPORTS WASHINGTON (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/20944
-#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",NBC SPORTS WASHINGTON (la)
-http://lazer.cfd:80/uu0229/PH6295/294209.ts
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",TNT (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23875
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",TNT (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23889
+#EXTINF:-1 group-title="NBC SPORTS WASHINGTON" tvg-id="nbcsportnwashington.us" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/nbcsportswashington.png",NBC SPORTS WASHINGTON (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVi8dGEnNM-DGY8ctOeN83oc/ts
 #EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",TNT (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/10455
-#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",TNT (la)
-http://lazer.cfd:80/uu0229/PH6295/294938.ts
-#EXTINF:-1 group-title="TNT (WEST)" tvg-id="TNTPacific.us" tvg-name="TNT (WEST)" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tntpacific.png",TNT (WEST) (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/23606
+#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",TNT (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVn2pxjN452-PtbMIMmPPDzw/ts
+#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",TNT (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuViBKT_cISO_6Q8XmxIfVZWk/ts
+#EXTINF:-1 group-title="TNT" tvg-id="tnt.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tnt.png",TNT (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVuc8bHmfbsX-JR4QpOSf448/ts
 #EXTINF:-1 group-title="TNT (WEST)" tvg-id="TNTPacific.us" tvg-name="TNT (WEST)" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tntpacific.png",TNT (WEST) (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/46688
-#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",TSN 1 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/254784
+#EXTINF:-1 group-title="TNT (WEST)" tvg-id="TNTPacific.us" tvg-name="TNT (WEST)" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tntpacific.png",TNT (WEST) (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVtPkrxkzIIVi5SmWs58kYMo/ts
+#EXTINF:-1 group-title="TNT (WEST)" tvg-id="TNTPacific.us" tvg-name="TNT (WEST)" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tntpacific.png",TNT (WEST) (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVjmEJASVxhMxaPs1iERopYc/ts
 #EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",TSN 1 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/57292
 #EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",TSN 1 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/47440
-#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",TSN 1 (la)
-http://lazer.cfd:80/uu0229/PH6295/291923.ts
-#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",TSN 2 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/254785
+#EXTINF:-1 group-title="TSN 1" tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn1.png",TSN 1 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVnmutD6Ku5pvLDVzT57NODk/ts
 #EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",TSN 2 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/16129
 #EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",TSN 2 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/47442
-#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",TSN 2 (la)
-http://lazer.cfd:80/uu0229/PH6295/291924.ts
-#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",TSN 3 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/254786
+#EXTINF:-1 group-title="TSN 2" tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn2.png",TSN 2 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVpV0HgsX7ga6mgc3WJdzSCE/ts
 #EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",TSN 3 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/10389
 #EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",TSN 3 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/47444
-#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",TSN 3 (la)
-http://lazer.cfd:80/uu0229/PH6295/291925.ts
-#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",TSN 4 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/254787
+#EXTINF:-1 group-title="TSN 3" tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn3.png",TSN 3 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVoLhtv1qS_WULH537FCz8K0/ts
 #EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",TSN 4 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/66783
 #EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",TSN 4 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/47446
-#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",TSN 4 (la)
-http://lazer.cfd:80/uu0229/PH6295/291926.ts
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",TSN 5 (fa)
-http://fastream.xyz:8080/54bacu39ra46pa76/47wuma84duwe57/254788
+#EXTINF:-1 group-title="TSN 4" tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn4.png",TSN 4 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVj8Bz5MqhZtr1I8rxzSreTg/ts
 #EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",TSN 5 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/57467
 #EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",TSN 5 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/16131
 #EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",TSN 5 (fo)
 http://fortv.cc:8080/michellec@gmail.com/michelle@1/57295
-#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",TSN 5 (la)
-http://lazer.cfd:80/uu0229/PH6295/291927.ts
+#EXTINF:-1 group-title="TSN 5" tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/tsn5.png",TSN 5 (nx)
+https://nxt.plus:8443/play/aUTTrGOgzAxr-U1ZgvKuVumIb6Ft2n8cs4F6gbBET4s/ts
