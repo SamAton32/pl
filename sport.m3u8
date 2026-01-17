@@ -77,6 +77,38 @@ http://zerotwo.access.ly:2096/johnshandrick/5432169708/761473
 http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQn3YgKnR9KpKai86LN_DZaJTml_K-x5wPsxcbPwF_xK3/ts
 #EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA (ze)
 http://zerotwo.access.ly:2096/johnshandrick/5432169708/815053
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS BAY AREA HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQgPttkVwY9hH9s0SBXQKzwArz2fbarabKAPBPBYnV9Ax/ts
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS BAY AREA (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815055
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS BAY AREA (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815056
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS BOSTON HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQhcUcpzGURC5GxocEdX5Fu5xDiyfhEo8aPCha1aNgqVN/ts
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS BOSTON (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815057
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS CALIFORNIA (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQhqNp6pTwdJglgVZ1IU_-1TLAGwDTwNkjflnBICLbzQ-/ts
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS CALIFORNIA (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815058
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS CHICAGO HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQgPttkVwY9hH9s0SBXQKzwDjrr8S255tn8bk0xaD09Fs/ts
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS CHICAGO HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQvymsnMa6CGcuq3ZEcelOneQ4p4Tv__uPUDF3tZQ1aGb/ts
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS CHICAGO (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815060
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQgPttkVwY9hH9s0SBXQKzwDf_xYvP2NfF44XCXvZ0cHg/ts
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQoC5EJwizdWPQda04wNFt0xObWyl8oCL3rON-uriQHpm/ts
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/822205
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS PHILADELPHIA HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQiMP27IFGDA9GfgeC8Q5WP038hfiPG-1TYk9_NUVXYQZ/ts
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS PHILADELPHIA (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815061
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS PHILADELPHIA (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815062
 #EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST HD (xw)
 http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQocTLXq5jRqbu9NE1W65o5mhwZBSjyC8YJI4ELU55rXg/ts
 #EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST (xw)
