@@ -1,155 +1,125 @@
 #EXTM3U
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/14197
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/9802
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9569
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9568
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/2210
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122823
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/123062
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/67415
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/67416
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/121588
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122094
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122210
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122572
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122659
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122824
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122829
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/131793
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/20965
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/53713
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/123063
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/67414
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/121589
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122095
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122211
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122573
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/122660
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/20966
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9555
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/1846
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/46792
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",FOX SPORTS 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9554
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",FOX SPORTS 2 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/1847
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBA TV CANADA (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/67105
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBA TV CANADA (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/22995
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/101962
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9547
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/20073
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS BAY AREA (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9545
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS BAY AREA (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/9900
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS BOSTON (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9544
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS BOSTON (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/20939
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS CALIFORNIA (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9543
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS CALIFORNIA (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/20940
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS CHICAGO (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9542
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS CHICAGO (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/20941
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/20926
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9546
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/46725
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS PHILADELPHIA (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9540
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS PHILADELPHIA (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/20943
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS WASHINGTON (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/20944
-#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9151
-#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/10455
-#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TNT WEST (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/56102
-#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TNT WEST (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/46688
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/67052
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9512
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/47440
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/57292
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/47442
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/67050
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9511
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/16129
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/10389
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/47444
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/67048
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9510
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/16130
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/67046
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9509
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/47446
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/66783
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/16131
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/67044
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 (5s)
-http://5startv.xyz:8080/NPcFZVyXGH/eEg62nAYW7Uh/9508
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/57295
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 (no)
-http://nocable.cc:8080/foyers1@rogers.com/9jguFdUq3Y/57467
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQgPttkVwY9hH9s0SBXQKzwC2bWXQgZS2aKDYhIHVRp1J/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQgPttkVwY9hH9s0SBXQKzwD046a0E4jAM2GLa8o6nRnP/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQiMP27IFGDA9GfgeC8Q5WP0Q4g4K0fFjXYeubBtGuNFW/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQu-BdMeKjUjwZaAhUfYc8qJBupzudrIoYQRHyox7V7ab/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/787949
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815000
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQgIwJkIfq57EMQfobEflD-_C0kht4VJX4lA-d7TlZCdx/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQgwfDo0hT4gOuSvqvKUZoPJKVvaccBYems2u-d8zIsf6/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQiMP27IFGDA9GfgeC8Q5WP1U9d_dO4opF7C9S2B77Ziw/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQtrrDFWODOXXyQGaWrpTzs0K8yqcpCcwafFahxx3OBdC/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQtrrDFWODOXXyQGaWrpTzs38j4572h21Xiht3lGpMXY3/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQtrrDFWODOXXyQGaWrpTzs3EGPIoKAZ3pEOcjvZr9371/ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775901
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815001
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQnB6pBBRVQzrkdIeXl9pz_bufTC4Tk4gTR2Avyh_cJyo/ts
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQsLgfpk0C7G3OKYl-C388JS-MbPXWhzWF9EIoMuiz_I_/ts
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQuUvk4MjoCYabAlMCAMxgjDnv1_TYqjznXsyNhvjTqNJ/ts
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQlHU8ynJmB2986ttFiZexqL3k-rWBOxeesXLonWZy_nv/ts
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/761335
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775902
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/780286
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQlHU8ynJmB2986ttFiZexqJS9xSJynmPAJ77Op4r5HbU/ts
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQmxWJUFVZ5uVWNJ6CWGpfZgOy90XTGwm2yGrrAmBKKJO/ts
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQsLgfpk0C7G3OKYl-C388JTJdeeEYZcThsMCU7BxnELh/ts
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQuUvk4MjoCYabAlMCAMxgjB6HIgAhNOfdwgrbZ8zMrfi/ts
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/761334
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775903
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/780287
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQt6U-n3LbOhx_0ujokWWmshLA-P8Nv2OI3s4r9uNgA3S/ts
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQt6U-n3LbOhx_0ujokWWmshnEjc8xnKqAxnR7rEN9kMz/ts
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQq4xQr5N8rnVJ7vNHyWPUCjhGcOicsPNNsGOPDV2ke3i/ts
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQu-BdMeKjUjwZaAhUfYc8qIReXa3QtugVGjj0vyqvlfP/ts
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815036
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",FOX SPORTS 2 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQgPttkVwY9hH9s0SBXQKzwCzh9k2_gaOR58muLllQczr/ts
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",FOX SPORTS 2 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQu-BdMeKjUjwZaAhUfYc8qLp1_ARI5V1ktjnEtL2krPP/ts
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",FOX SPORTS 2 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815037
+#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBA TV CANADA (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/761473
+#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQn3YgKnR9KpKai86LN_DZaJTml_K-x5wPsxcbPwF_xK3/ts
+#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815053
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQocTLXq5jRqbu9NE1W65o5mhwZBSjyC8YJI4ELU55rXg/ts
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQgWV_Jk5uYEGV3BwUqvLtBVnoU3mf6jR-oUEbgffoF-V/ts
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQliJ5FSHTDu9paJo9Go_VmtxB1elbAslxPAIz6yIVEQ9/ts
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/814391
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TNT WEST HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQoC5EJwizdWPQda04wNFt0xXyZo85tznYNwqfCnIt3qp/ts
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TNT WEST (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/814392
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQniYwdARm1tax9Gu4xaqbjEtFH-8GvuZrrLxzGR6huWR/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQniYwdARm1tax9Gu4xaqbjFLF9zNUKTKiPKTApECswxg/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQoDQ40wqqNfFhRzGljeweTKd60ZsdBv2CbI950MGhAYM/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815122
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQniYwdARm1tax9Gu4xaqbjFiow8mKLLSj7DCv7M5snpz/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQniYwdARm1tax9Gu4xaqbjHRLfnEItt_gHAW0nkm_cwF/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQoDQ40wqqNfFhRzGljeweTJbgP4m6pzWM3BBw0zkIv-j/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815123
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQniYwdARm1tax9Gu4xaqbjEQ7RSAfgtbO30yOHbN4nIY/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQniYwdARm1tax9Gu4xaqbjFG96snIeMqkYVm1N0B2aio/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQoDQ40wqqNfFhRzGljeweTLyfPGXCHl9XaGGXjWpOTPf/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815124
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQniYwdARm1tax9Gu4xaqbjEbShHp7Ctbm_FG1L9WFeXd/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815125
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQniYwdARm1tax9Gu4xaqbjH8LnVZeWHMAaJDCWuA9o1Z/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 HD (xw)
+http://xworld-blue.com:25461/play/hFn5_Vo6hN_cWV7X9USSQniYwdARm1tax9Gu4xaqbjHDMAut_0WUds78qB24P5WB/ts
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 (ze)
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/815126
