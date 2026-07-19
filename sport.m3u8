@@ -1,341 +1,193 @@
 #EXTM3U
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 HD (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/14197
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 HD (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/9802
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 HD (co)
+http://cord-cutter.net:8080/34556560/34556560/14197
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 HD (co)
+http://cord-cutter.net:8080/34556560/34556560/9802
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 HD (fo)
 http://fortv.cc:8080/Mg5J84/308698/14197
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 HD (fo)
 http://fortv.cc:8080/Mg5J84/308698/9802
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122599
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122630
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122752
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122785
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122829
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122836
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122842
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122889
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/123018
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/123481
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/123700
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/123745
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/123813
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/124525
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/124609
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/124719
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/124894
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/124911
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/125047
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/125055
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/125203
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/125214
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/125256
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/125311
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/125543
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138265
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138299
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138317
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138358
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138363
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138392
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138420
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138444
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138477
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138485
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138612
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138640
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138677
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138768
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138890
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/138895
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/139074
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/139077
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/17608
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/17707
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/265458
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/265459
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/265460
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/266474
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/266477
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/266503
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/266530
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/266532
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/272413
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/273210
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/273997
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/276134
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/277479
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/279253
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/279707
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/280984
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/283722
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/284155
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/286261
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/287182
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/290081
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/293114
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/293692
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/294093
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/294310
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/295906
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/296413
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/296584
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/298833
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/299539
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/303494
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/303537
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/307819
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/320321
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/320322
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326470
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326471
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326472
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326473
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326474
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326475
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326476
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326477
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326478
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326479
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326480
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326481
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326482
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326483
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326484
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326485
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326486
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326487
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/326488
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/66372
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/99624
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/movie/Mg5J84/308698/204344.mkv
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/movie/Mg5J84/308698/204345.mkv
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",ESPN 1 N/A (fo)
-http://fortv.cc:8080/movie/Mg5J84/308698/204346.mp4
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 N/A (fo)
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/2210
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (co)
+http://cord-cutter.net:8080/34556560/34556560/2210
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 (fo)
 http://fortv.cc:8080/Mg5J84/308698/2210
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/266545
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/320318
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/320320
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",ESPN 2 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/99572
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 N/A (fo)
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/266643
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/53713
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (co)
+http://cord-cutter.net:8080/34556560/34556560/266643
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (co)
+http://cord-cutter.net:8080/34556560/34556560/53713
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (fo)
 http://fortv.cc:8080/Mg5J84/308698/266643
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 N/A (fo)
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",EUROSPORT 1 (fo)
 http://fortv.cc:8080/Mg5J84/308698/53713
-#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 N/A (fo)
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/266642
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (co)
+http://cord-cutter.net:8080/34556560/34556560/266642
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",EUROSPORT 2 (fo)
 http://fortv.cc:8080/Mg5J84/308698/266642
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122755
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/122890
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/123297
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/123466
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/123571
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/124433
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/124773
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/124780
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/125473
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/139067
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/17832
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/1846
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/46792
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (co)
+http://cord-cutter.net:8080/34556560/34556560/1846
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (co)
+http://cord-cutter.net:8080/34556560/34556560/46792
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (fo)
 http://fortv.cc:8080/Mg5J84/308698/1846
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/276835
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/278896
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/282963
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/289894
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/290491
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/290929
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/292749
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/302441
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/302530
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/304028
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/305825
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/306468
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/306493
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/309301
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 (fo)
 http://fortv.cc:8080/Mg5J84/308698/46792
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",FOX SPORTS 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/57771
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",FOX SPORTS 2 N/A (fo)
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",FOX SPORTS 2 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/1847
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",FOX SPORTS 2 (co)
+http://cord-cutter.net:8080/34556560/34556560/1847
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",FOX SPORTS 2 (fo)
 http://fortv.cc:8080/Mg5J84/308698/1847
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBA TV CANADA N/A (fo)
+#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBA TV CANADA (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/22995
+#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBA TV CANADA (co)
+http://cord-cutter.net:8080/34556560/34556560/22995
+#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBA TV CANADA (fo)
 http://fortv.cc:8080/Mg5J84/308698/22995
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA N/A (fo)
+#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/20073
+#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA (co)
+http://cord-cutter.net:8080/34556560/34556560/20073
+#EXTINF:-1 group-title="NBA TV" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBA TV USA (fo)
 http://fortv.cc:8080/Mg5J84/308698/20073
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS BAY AREA N/A (fo)
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS BAY AREA (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/9900
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS BAY AREA (co)
+http://cord-cutter.net:8080/34556560/34556560/9900
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS BAY AREA (fo)
 http://fortv.cc:8080/Mg5J84/308698/9900
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS BOSTON N/A (fo)
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS BOSTON (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/20939
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS BOSTON (co)
+http://cord-cutter.net:8080/34556560/34556560/20939
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS BOSTON (fo)
 http://fortv.cc:8080/Mg5J84/308698/20939
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS CALIFORNIA N/A (fo)
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS CALIFORNIA (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/20940
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS CALIFORNIA (co)
+http://cord-cutter.net:8080/34556560/34556560/20940
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS CALIFORNIA (fo)
 http://fortv.cc:8080/Mg5J84/308698/20940
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS CHICAGO N/A (fo)
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS CHICAGO (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/20941
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS CHICAGO (co)
+http://cord-cutter.net:8080/34556560/34556560/20941
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS CHICAGO (fo)
 http://fortv.cc:8080/Mg5J84/308698/20941
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK HD (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/20926
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK HD (co)
+http://cord-cutter.net:8080/34556560/34556560/20926
 #EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK HD (fo)
 http://fortv.cc:8080/Mg5J84/308698/20926
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK N/A (fo)
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/286535
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/46725
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (co)
+http://cord-cutter.net:8080/34556560/34556560/286535
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (co)
+http://cord-cutter.net:8080/34556560/34556560/46725
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (fo)
 http://fortv.cc:8080/Mg5J84/308698/286535
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK N/A (fo)
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS NETWORK (fo)
 http://fortv.cc:8080/Mg5J84/308698/46725
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS PHILADELPHIA N/A (fo)
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS PHILADELPHIA (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/20943
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS PHILADELPHIA (co)
+http://cord-cutter.net:8080/34556560/34556560/20943
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",NBC SPORTS PHILADELPHIA (fo)
 http://fortv.cc:8080/Mg5J84/308698/20943
-#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS WASHINGTON N/A (fo)
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS WASHINGTON (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/20944
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS WASHINGTON (co)
+http://cord-cutter.net:8080/34556560/34556560/20944
+#EXTINF:-1 group-title="NBC SPORTS" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",NBC SPORTS WASHINGTON (fo)
 http://fortv.cc:8080/Mg5J84/308698/20944
-#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST N/A (fo)
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/10455
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST (co)
+http://cord-cutter.net:8080/34556560/34556560/10455
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST (fo)
 http://fortv.cc:8080/Mg5J84/308698/10455
-#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/279738
-#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TNT EAST N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/291028
-#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TNT WEST N/A (fo)
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TNT WEST (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/46688
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TNT WEST (co)
+http://cord-cutter.net:8080/34556560/34556560/46688
+#EXTINF:-1 group-title="TNT" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TNT WEST (fo)
 http://fortv.cc:8080/Mg5J84/308698/46688
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/283683
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 N/A (fo)
-http://fortv.cc:8080/Mg5J84/308698/290171
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 N/A (fo)
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/47440
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/57292
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (co)
+http://cord-cutter.net:8080/34556560/34556560/47440
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (co)
+http://cord-cutter.net:8080/34556560/34556560/57292
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (fo)
 http://fortv.cc:8080/Mg5J84/308698/47440
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 N/A (fo)
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 1 (fo)
 http://fortv.cc:8080/Mg5J84/308698/57292
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 HD (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/47442
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 HD (co)
+http://cord-cutter.net:8080/34556560/34556560/47442
 #EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 HD (fo)
 http://fortv.cc:8080/Mg5J84/308698/47442
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 N/A (fo)
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/16129
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 (co)
+http://cord-cutter.net:8080/34556560/34556560/16129
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 2 (fo)
 http://fortv.cc:8080/Mg5J84/308698/16129
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 HD (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/10389
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 HD (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/47444
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 HD (co)
+http://cord-cutter.net:8080/34556560/34556560/10389
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 HD (co)
+http://cord-cutter.net:8080/34556560/34556560/47444
 #EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 HD (fo)
 http://fortv.cc:8080/Mg5J84/308698/10389
 #EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 3 HD (fo)
 http://fortv.cc:8080/Mg5J84/308698/47444
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 HD (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/16130
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 HD (co)
+http://cord-cutter.net:8080/34556560/34556560/16130
 #EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 HD (fo)
 http://fortv.cc:8080/Mg5J84/308698/16130
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 N/A (fo)
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/66783
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 (co)
+http://cord-cutter.net:8080/34556560/34556560/66783
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/green.png",TSN 4 (fo)
 http://fortv.cc:8080/Mg5J84/308698/66783
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 HD (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/16131
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 HD (co)
+http://cord-cutter.net:8080/34556560/34556560/16131
 #EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 HD (fo)
 http://fortv.cc:8080/Mg5J84/308698/16131
-#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 N/A (fo)
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 (1t)
+http://1tv41.icu:8080/8653325367/kruckart@charter.net/57467
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 (co)
+http://cord-cutter.net:8080/34556560/34556560/57467
+#EXTINF:-1 group-title="TSN" tvg-logo="https://raw.githubusercontent.com/SamAton32/pl/refs/heads/master/icons/red.png",TSN 5 (fo)
 http://fortv.cc:8080/Mg5J84/308698/57467
